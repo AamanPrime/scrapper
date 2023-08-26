@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>getCookies</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
+
+    <link rel="stylesheet" href="/css/app.css">
+</head>
+
+<body>
+<nav class="navbar navbar-expand-lg bg-dark sticky-top" data-bs-theme="dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">getCookies</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="#">Udemy</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="#">Coursera</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="#">Netflix</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="#">Crounchy Roll</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+
+
+ <section>
+            <div class="telegram bg-primary">
+                <div class="text-center">
+                    <p class="tele-info">If cookies are not working, then join telegram <a class="tele-link"
+                            href="/">Join Now</a>
+                    </p>
+                </div>
+            </div>
+
+ </section>
+
+        <div class="row p-3">
+            <div class="col-sm-12 col-md-9">
+                <h2>
+                    {{ title }}
+
+                </h2>
+                <p>Updated on {{ today }}</p>
+                <img src="https://cdn.cookielaw.org/logos/c7d0d27d-e055-4572-8927-d3c994df5f60/3275d2bc-df67-4c87-81ed-bdfb982b90c2/a3df5d54-4eba-4aeb-9fb3-189c22118d8c/udemy-logo.png"
+                    alt="" style="width: 100%;">
+                <p>Udemy is an online learning platform that offers a wide range of courses taught by expert
+                    instructors.</p>
+                <h2>How to Use Cookies in Google Chrome or any another Browser</h2>
+                <p>Step:1 Firstly, you need to download chrome extension <a
+                        href="https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm">By
+                        Clicking Here</a></p>
+                <p>Step:2 First Copy the cookies of your desired website by visitng <a href="">getCookies</a></p>
+                <p>Step:3 Now Visit your desired website of which you have copied cookies and click on extension logo
+                    in address bar and click on cookie editor.</p>
+                <img src="{{url_for('static', filename='img/step3.png')}}" style="width: 100%;">
+                <p>Step:4 Now Click on delete All Button</p>
+                <img src="{{url_for('static', filename='img/step4.PNG')}}" style="width: 100%;">
+                <p>Step:5 Now CLick on Import Button next to delete all button</p>
+                <p>Step:6 Now Paste (CTRL+V) on in the box and click import button</p>
+                <img src="{{url_for('static', filename='img/step6.PNG')}}" style="width: 100%;">
+                <p>Now Refresh the website by pressing F5 Key or by right click</p>
+                <section>
+                    <div class="telegram bg-primary">
+                        <div class="text-center">
+                            <p class="tele-info">If cookies are not working, then join telegram <a class="tele-link"
+                                    href="/">Join</a>
+                            </p>
+                        </div>
+                    </div>
+
+                </section>
+                <h3>Get Latest Updated {{website}} Cookies</h3>
+                <a href="{{ link }}/1" class="text-center"><h2>Udemy Cookie 1 ==> Click Here</h2></a>
+                <a href="{{ link }}/2" class="text-center"><h2>Udemy Cookie 1 ==> Click Here</h2></a>
+                <a href="{{ link }}/3" class="text-center"><h2>Udemy Cookie 1 ==> Click Here</h2></a>
+
+
+
+            </div>
+            <div class="col-sm-12 col-md-3">
+                <h3>Advertisement</h3>
+                <div class="card" style="height: 300px;">
+
+                    <div class="card-body">
+
+
+                    </div>
+                </div>
+                <div class="card" style="height: 300px;">
+
+                    <div class="card-body">
+
+
+                    </div>
+
+
+
+                </div>
+
+                <div class="card" style="height: 300px;">
+
+                    <div class="card-body">
+
+
+                    </div>
+
+
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+        </body>
+
+<footer>
+    <div class="footer">
+        <p>Copyright © 2023 getCookies.com Managed By ATOS</p>
+
+    </div>
+
+</footer>
+
+            </html>
