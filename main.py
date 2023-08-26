@@ -1,4 +1,4 @@
-from flask import Flask, render_template, redirect, url_for, flash, abort
+from flask import Flask, render_template
 from flask_bootstrap import Bootstrap
 from datetime import datetime
 import requests
@@ -66,6 +66,3 @@ def update():
         return 'Error in 3'
 
     return 'Done'
-
-
-app.run(debug=True)
