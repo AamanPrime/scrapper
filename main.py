@@ -67,5 +67,3 @@ def update():
 
     return 'Done'
 
-
-app.run(debug=True)
