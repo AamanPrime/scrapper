@@ -66,3 +66,6 @@ def update():
         return 'Error in 3'
 
     return 'Done'
+
+
+app.run(debug=True)
