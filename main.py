@@ -67,3 +67,6 @@ def update():
 
     return 'Done'
 
+
+if __name__ == '__main__':
+    app.run()
