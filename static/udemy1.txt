@@ -1,625 +1,1000 @@
-[
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1693207173.334027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_cache_language",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "en"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1700816614,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_gcl_au",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "1.1.1128484249.1693040614"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1693122504.026024,
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "__cf_bm",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "DQBJGxnLqRyZjHaren3WS4ejyEQ.lXPxz7ta7UMTibc-1693120703-0-AW/XMHGirj2fpsVReCdOeDDklF6w/koFXbcinr8IqcSAcCGyUqMbPCTmuxOhP4Dbmh+oGulRNyg2aNNJhwxG1Ao="
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1693207173.334027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_cache_version",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "1"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1724656761.102027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_credit_last_seen",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "None"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1724570361.102027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "csrftoken",
-        "path": "/",
-        "sameSite": "lax",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "ZPN675XP3NRWfEVr2iewz7lM3uUtsm7Aq3h1i4mwAwOMCtGLPHgE5InWyMVNv1d2"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1693645393.334027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "exaff",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "%7B%22start_date%22%3A%222023-08-26T09%3A03%3A12.527727Z%22%2C%22code%22%3A%22OzpaRYwFVr0-eQe9uNryfUJfOnyEccOfww%22%2C%22merchant_id%22%3A47901%2C%22aff_type%22%3A%22LS%22%2C%22aff_id%22%3A66308%7D:1qaA3Y:WZ3KK4DlsKrQs2hO-8zQpVeVDAg"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1727600593.844924,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_ga_5DFV9N7C9K",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "GS1.1.1693039653.1.1.1693040593.0.0.0"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1693725565,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "blisspoint_fpc",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "8d3ba8f2-805b-4de6-819c-185e57ce5cc4"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1693207173.334027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_cache_marketplace_country",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "PK"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1724576611.209924,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_firstvisit",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "2023-08-26T09:03:28.699054+00:00:1qZpCa:NHiefFpwLl52IQY3_ePVcMBy6-8"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1700896766,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_rdt_uuid",
-        "path": "/",
-        "sameSite": "strict",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "1693040614291.0fd89b82-a4ac-4aea-80ae-2d948008ed7e"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1693207173.334027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_cache_brand",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "PKen_US"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1724576609.825924,
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "cf_clearance",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "hvUVMUreLil0gbKbClnQrMM9AmM.IZ1.zMix10QHbaw-1693040607-0-1-e9739e3a.f2e52f0c.be72c1da-0.2.1693040607"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1693207163.109027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_cache_campaign_code",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "SKILLSALE23B"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1727680766.085027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ki_t",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "1693040614372%3B1693116884354%3B1693120766084%3B2%3B18"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1693207173.334027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_cache_user",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "243776318"
-    },
-    {
-        "domain": ".udemy.com",
-        "hostOnly": false,
-        "httpOnly": true,
-        "name": "__cfruid",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "d2ff0c115b1a885ab5922e25ad4ba50f921c1ea1-1693120768"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1727600613.180924,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "__ssid",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "27b7a381b5b799908794aff7f3414db"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1724576596.232924,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "__udmy_1_a12z_c24t",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "VGhlIGFuc3dlciB0byBsaWZlLCB0aGUgdW5pdmVyc2UsIGFuZCBldmVyeXRoaW5nIGlzIDQy"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1724656773.334027,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "__udmy_2_v57r",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "7ceb1624c5d044fa97158f61bca5aec7"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1693207171.247027,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "__udmy_4_a12z",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "9a27c42161e84c660db75481e24569c8f5e65125bd372024f8b00055988e5d93"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1693120803,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_dc_gtm_UA-12366301-1",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "1"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1693121676,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "_dd_s",
-        "path": "/",
-        "sameSite": "strict",
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "rum=0&expire=1693121673588"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1700896766,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_fbp",
-        "path": "/",
-        "sameSite": "lax",
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "fb.1.1693040614345.1025132565"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1727680766.323027,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_ga",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "GA1.1.1445187163.1693040610"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1727680766.300027,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_ga_7YMFEFLR6Q",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "GS1.1.1693120716.4.0.1693120766.0.0.0"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1727600595.777924,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_ga_DFDMXRYPXY",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "GS1.1.1693039538.1.1.1693040595.0.0.0"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1727600596.919924,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_ga_E5H32MGF72",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "GS1.1.1693039482.1.1.1693040596.0.0.0"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1693207162,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_gid",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "GA1.2.431241483.1693040610"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1724663015,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_yjsu_yjad",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "1693040615.069f9ead-c8de-4f50-89a1-2ff7fa61fc5d"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1695712759.959027,
-        "hostOnly": true,
-        "httpOnly": true,
-        "name": "access_token",
-        "path": "/",
-        "sameSite": "lax",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "9x9HQoUx2YPiQkFwJnKg2E54ZneFYcWjkLEaunzQ"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1695712759.959027,
-        "hostOnly": true,
-        "httpOnly": true,
-        "name": "client_id",
-        "path": "/",
-        "sameSite": "lax",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "bd2565cb7b0c313f5e9bae44961e8db2"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1695712759.959027,
-        "hostOnly": true,
-        "httpOnly": true,
-        "name": "dj_session_id",
-        "path": "/",
-        "sameSite": "lax",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "rofqzqf1449ashzd9l6u5es3nyzs7jpm"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1693122570,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "eventing_session_id",
-        "path": "/",
-        "sameSite": "strict",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "ZTE5MjYyNjYtZGE1OC00MW-1693122570792"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1695712773.334027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "evi",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "\"3@OPBYBCLhe9OdklJiPZTHt6X8o3SSUs8TAbhJQCB5FIkMlWNrA31IMYUs\""
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1727680766.090027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ki_r",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": ""
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1727600614.380924,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ki_s",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "227428%3A0.0.0.0.0"
-    },
-    {
-        "domain": ".www.udemy.com",
-        "expirationDate": 1724656762,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "OptanonConsent",
-        "path": "/",
-        "sameSite": "lax",
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "isGpcEnabled=0&datestamp=Sun+Aug+27+2023+12%3A19%3A22+GMT%2B0500+(Pakistan+Standard+Time)&version=202305.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bed4aefa-1a0f-4806-8e5a-07ea397bc36b&interactionCount=1&landingPath=NotLandingPage&groups=C0003%3A1%2CC0005%3A1%2CC0004%3A1%2CC0001%3A1%2CC0002%3A1&AwaitingReconsent=false"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1693207173.334027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_cache_device",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "None"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1693207173.334027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_cache_logged_in",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "1"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1693207173.334027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_cache_price_country",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "BR"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1693207173.334027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_cache_release",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "5cc3e7bf8d95b39121a4"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1693127961.102027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_credit_unseen",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "0"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1727600620.536924,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_last_auth_information",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "\"{\\\"backend\\\": \\\"udemy-auth\\\"\\054 \\\"suggested_user_email\\\": \\\"s99082532@gmail.com\\\"\\054 \\\"suggested_user_name\\\": \\\"Hi\\\"\\054 \\\"suggested_user_avatar\\\": \\\"https://img-c.udemycdn.com/user/50x50/anonymous_3.png\\\"}:1qZpCk:OotJk9uTmZNn9BPaKkTHFn8SpgU\""
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1724576620.536924,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_locale",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "en_US"
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1727680773.334027,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_rule_vars",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "\"eJxtjcsKwjAQRX-lZKuWaZ5tvqUQpulEg4VgknZT_HcLirhwe7nnnJ1VzFeqNLstllhTtsbT1GkuvZpByoCD6VQfdDd5VEjeWJ_SPRKzDdtHFmIu9c26GSuNxz4yDlxcoL9w3UBvpbRqaAVwMOIEYAFGdj5eCx5oTau_uZoxhOhdSWv25DbMEaflYyuUfoBMj5XK35ppwNhusIK3Riuhv7Une74A2rdG2w==:1qaA3Y:Gp9TYfZErfCP6OMtDkOnAn3do8Y\""
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1695712759.959027,
-        "hostOnly": true,
-        "httpOnly": true,
-        "name": "ud_user_jwt",
-        "path": "/",
-        "sameSite": null,
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjQzNzc2MzE4LCJlbWFpbCI6InM5OTA4MjUzMkBnbWFpbC5jb20iLCJpc19zdXBlcnVzZXIiOmZhbHNlLCJncm91cF9pZHMiOltdfQ.JQ__gMIyNv93ugwjNC4Iq9nEjG6ZqJeXG8hyX__jk7c"
-    }
-]
+#CrackYourInternship		DSA Sheet by Arsh - Updated 2023																							
+#CrackYourPlacement		Follow on Youtube : https://www.youtube.com/c/arshgoyal																							
+																									
+			Status	Goldman Sachs	Amazon	Walmart	Salesforce	Microsoft																	
+		Arrays 																							
+	Easy	https://leetcode.com/problems/set-matrix-zeroes/						-																	
+	Easy	https://leetcode.com/problems/move-zeroes/		-		-	-																		
+	Easy	https://leetcode.com/problems/best-time-to-buy-and-sell-stock/		-																					
+	Easy	https://www.geeksforgeeks.org/chocolate-distribution-problem/																							
+	Easy	https://leetcode.com/problems/find-the-duplicate-number/		-																					
+	Easy	https://leetcode.com/problems/sort-colors/					-																		
+	Easy	https://leetcode.com/problems/remove-duplicates-from-sorted-array/																							
+	Easy	https://leetcode.com/problems/two-sum/																							
+	Easy	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/				-																			
+	Medium	https://leetcode.com/problems/subarray-sums-divisible-by-k/																							
+	Medium	https://leetcode.com/problems/find-all-duplicates-in-an-array/						-																	
+	Medium	https://leetcode.com/problems/container-with-most-water/			-																				
+	Medium	https://leetcode.com/problems/3sum/		-																					
+	Medium	https://leetcode.com/problems/4sum/			-																				
+	Medium	https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/			-																				
+	Medium	https://leetcode.com/problems/subarray-sum-equals-k/						-																	
+	Medium	https://leetcode.com/problems/spiral-matrix/																							
+	Medium	https://leetcode.com/problems/word-search/																							
+	Medium	https://leetcode.com/problems/jump-game/																							
+	Medium	https://leetcode.com/problems/merge-sorted-array/																							
+	Medium	https://leetcode.com/problems/majority-element/																							
+	Medium	https://leetcode.com/problems/reverse-pairs/				-																			
+	Medium	https://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/				-																			
+	Medium	https://leetcode.com/problems/game-of-life/				-																			
+	Hard	https://leetcode.com/problems/max-value-of-equation/				-																			
+	Hard	https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/																							
+	Hard	https://leetcode.com/problems/largest-rectangle-in-histogram/																							
+	Hard	https://leetcode.com/problems/max-value-of-equation/																							
+																									
+																									
+		Strings																							
+	Easy	https://leetcode.com/problems/valid-parentheses/					-																		
+	Easy	https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/																							
+	Easy	https://leetcode.com/problems/implement-strstr/					-																		
+	Easy	https://leetcode.com/problems/longest-common-prefix/																							
+	Easy	https://leetcode.com/problems/valid-palindrome-ii/		-		-																			
+	Medium 	https://leetcode.com/problems/integer-to-roman/		-																					
+	Medium 	https://leetcode.com/problems/generate-parentheses/					-																		
+	Medium 	https://leetcode.com/problems/simplify-path/		-																					
+	Medium 	https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1		-																					
+	Medium 	https://leetcode.com/problems/reverse-words-in-a-string/		-																					
+	Medium 	https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/					-																		
+	Medium 	https://leetcode.com/problems/group-anagrams/																							
+	Medium 	https://practice.geeksforgeeks.org/problems/word-wrap1646/1					-																		
+	Medium 	https://leetcode.com/problems/basic-calculator-ii/																							
+	Hard	https://leetcode.com/problems/valid-number/			-																				
+	Hard	https://leetcode.com/problems/integer-to-english-words/																							
+	Hard	https://leetcode.com/problems/minimum-window-substring/					-																		
+	Hard	https://leetcode.com/problems/text-justification/																							
+	Hard	https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/			-																				
+	Hard	https://leetcode.com/problems/distinct-subsequences/																							
+																									
+		Matrix Problems 																							
+	Medium	https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/																							
+	Medium	https://www.geeksforgeeks.org/find-number-of-islands/																							
+	Medium	https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/																							
+	Medium	https://leetcode.com/problems/spiral-matrix/					-																		
+	Medium	https://leetcode.com/problems/rotate-image/					-																		
+							-																		
+		Mathematical Problems																							
+	Easy	https://leetcode.com/problems/minimum-moves-to-equal-array-elements/																							
+	Easy	https://leetcode.com/problems/add-binary/																							
+	Easy	https://leetcode.com/problems/maximum-product-of-three-numbers/																							
+	Easy	https://leetcode.com/problems/excel-sheet-column-title/																							
+	Easy	https://leetcode.com/problems/happy-number/					-																		
+	Easy	https://leetcode.com/problems/palindrome-number/																							
+	Easy	https://leetcode.com/problems/missing-number/		-																					
+	Easy	https://leetcode.com/problems/reverse-integer/																							
+	Easy	https://leetcode.com/problems/power-of-two/																							
+	Medium	https://leetcode.com/problems/max-points-on-a-line/																							
+	Medium	https://leetcode.com/problems/valid-square/					-																		
+	Medium	https://leetcode.com/problems/the-kth-factor-of-n/																							
+																									
+		Sorting and Searching						-																	
+	Easy	https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/				-																			
+	Easy	https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/																							
+	Easy	https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/			-		-																		
+	Easy	https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/																							
+	Medium	https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/																							
+	Medium	https://www.geeksforgeeks.org/radix-sort/		-																					
+	Medium	https://www.geeksforgeeks.org/a-product-array-puzzle/																							
+	Medium	https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/						-																	
+	Medium	https://leetcode.com/problems/find-peak-element/																							
+	Hard	https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1				-																			
+	Hard	https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/																							
+	Hard	https://www.spoj.com/problems/AGGRCOW/						-																	
+	Hard	https://leetcode.com/problems/search-in-rotated-sorted-array/					-																		
+	Hard	https://leetcode.com/problems/count-of-smaller-numbers-after-self/																							
+	Hard	https://leetcode.com/problems/split-array-largest-sum/			-																				
+																									
+		Linked List																							
+	Easy	https://leetcode.com/problems/middle-of-the-linked-list/																							
+	Easy	https://leetcode.com/problems/linked-list-cycle/		-																					
+	Easy	https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/						-																	
+	Easy	https://leetcode.com/problems/remove-duplicates-from-sorted-list/																							
+	Easy	https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/																							
+	Easy	https://leetcode.com/problems/reverse-linked-list/					-																		
+	Easy	https://leetcode.com/problems/merge-two-sorted-lists/					-	-																	
+	Easy	https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/																							
+	Easy	https://leetcode.com/problems/intersection-of-two-linked-lists/					-																		
+	Easy	https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/																							
+	Easy	https://leetcode.com/problems/palindrome-linked-list/					-	-																	
+	Medium	https://leetcode.com/problems/copy-list-with-random-pointer/																							
+	Medium	https://leetcode.com/problems/add-two-numbers-ii/																							
+	Medium	https://leetcode.com/problems/reverse-linked-list-ii/			-																				
+	Medium	https://leetcode.com/problems/remove-nth-node-from-end-of-list/																							
+	Medium	https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/																							
+	Medium	https://leetcode.com/problems/partition-list/						-																	
+	Medium	https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/					-																		
+	Medium	https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/																							
+	Medium	https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/																							
+	Medium	https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/																							
+	Hard	https://leetcode.com/problems/merge-k-sorted-lists/																							
+	Hard	https://leetcode.com/problems/reverse-nodes-in-k-group/			-																				
+	Hard	https://www.geeksforgeeks.org/merge-sort-for-linked-list/						-																	
+	Hard	https://www.geeksforgeeks.org/flattening-a-linked-list/																							
+	Hard	https://www.geeksforgeeks.org/subtract-two-numbers-represented-as-linked-lists/																							
+																									
+		Stacks and Queues																							
+	Easy	https://leetcode.com/problems/implement-queue-using-stacks/																							
+	Easy	https://leetcode.com/problems/implement-stack-using-queues/		-																					
+	Easy	https://www.geeksforgeeks.org/implement-stack-queue-using-deque/				-		-																	
+	Easy	https://leetcode.com/problems/next-greater-element-i/																							
+	Easy	https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/					-																		
+	Easy	https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/																							
+	Medium	https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/																							
+	Medium	https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1						-																	
+	Medium	https://leetcode.com/problems/online-stock-span/		-																					
+	Medium	https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1				-																			
+	Medium	https://leetcode.com/problems/sum-of-subarray-minimums/					-																		
+	Medium	https://practice.geeksforgeeks.org/problems/circular-tour/1																							
+	Medium	https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/		-																					
+	Medium	https://leetcode.com/problems/flatten-nested-list-iterator/																							
+	Hard	https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/				-	-																		
+	Hard	https://www.geeksforgeeks.org/lru-cache-implementation/						-																	
+	Hard	http://geeksforgeeks.org/the-celebrity-problem/																							
+						-																			
+		Trees																							
+	Easy	https://leetcode.com/problems/diameter-of-binary-tree/																							
+	Easy	https://leetcode.com/problems/invert-binary-tree/			-																				
+	Easy	https://leetcode.com/problems/subtree-of-another-tree/			-			-																	
+	Easy	https://leetcode.com/problems/range-sum-of-bst/																							
+	Easy	https://leetcode.com/problems/symmetric-tree/	-		-																				
+	Easy	https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/																							
+	Easy	https://leetcode.com/problems/merge-two-binary-trees/																							
+	Easy	https://leetcode.com/problems/maximum-depth-of-binary-tree/																							
+	Easy	https://leetcode.com/problems/binary-tree-paths/				-		-																	
+	Easy	https://leetcode.com/problems/same-tree/																							
+	Easy	https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/	-																						
+	Easy	https://leetcode.com/problems/path-sum/																							
+	Easy	https://leetcode.com/problems/minimum-absolute-difference-in-bst/																							
+	Easy	https://leetcode.com/problems/sum-of-left-leaves/				-		-																	
+	Easy	https://leetcode.com/problems/balanced-binary-tree/						-																	
+	Easy	https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1																							
+	Easy	https://leetcode.com/problems/binary-tree-inorder-traversal/  																							
+	Easy	https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1																							
+	Medium	https://leetcode.com/problems/binary-search-tree-iterator/																							
+	Medium	https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/																							
+	Medium	https://leetcode.com/problems/unique-binary-search-trees-ii/																							
+	Medium	https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/						-																	
+	Medium	https://leetcode.com/problems/validate-binary-search-tree/		-																					
+	Medium	https://leetcode.com/problems/binary-tree-right-side-view/																							
+	Medium	https://leetcode.com/problems/redundant-connection/																							
+	Medium	https://leetcode.com/problems/binary-tree-level-order-traversal/																							
+	Medium	https://leetcode.com/problems/path-sum-iii/						-																	
+	Medium	https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/			-		-																		
+	Medium	https://leetcode.com/problems/unique-binary-search-trees/		-			-	-																	
+	Medium	https://leetcode.com/problems/recover-binary-search-tree/					-																		
+	Medium	https://leetcode.com/problems/populating-next-right-pointers-in-each-node/				-	-	-																	
+	Medium	https://leetcode.com/problems/flatten-binary-tree-to-linked-list/																							
+	Medium	https://leetcode.com/problems/maximum-width-of-binary-tree/																							
+	Medium	https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1			-																				
+	Medium	https://leetcode.com/problems/kth-smallest-element-in-a-bst/		-																					
+	Medium	https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/					-																		
+	Medium	https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1																							
+	Medium	https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1			-			-																	
+	Hard	https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1																							
+	Hard	https://leetcode.com/problems/binary-tree-maximum-path-sum/				-																			
+	Hard	https://leetcode.com/problems/sum-of-distances-in-tree/					-																		
+	Hard	https://leetcode.com/problems/binary-tree-cameras/			-	-																			
+	Hard	https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/			-																				
+	Hard	https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/			-																				
+	Hard	https://leetcode.com/problems/serialize-and-deserialize-binary-tree/			-																				
+	Hard	https://www.geeksforgeeks.org/find-median-bst-time-o1-space/																							
+	Hard	https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/						-																	
+	Hard	https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/																							
+																									
+		GRAPHS																							
+	Easy	https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1				-																			
+	Easy	https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/		-																					
+	Easy	https://leetcode.com/problems/number-of-islands/																							
+	Easy	https://leetcode.com/problems/flood-fill/				-																			
+	Easy	https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1																							
+	Easy	https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1																							
+	Easy	https://www.geeksforgeeks.org/detect-cycle-in-a-graph/																							
+	Medium	https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1		-																					
+	Medium	https://leetcode.com/problems/decode-string/		-																					
+	Medium	https://leetcode.com/problems/shortest-bridge/		-																					
+	Medium	https://leetcode.com/problems/number-of-operations-to-make-network-connected/		-		-																			
+	Medium	https://leetcode.com/problems/find-eventual-safe-states/																							
+	Medium	https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1																							
+	Medium	https://leetcode.com/problems/time-needed-to-inform-all-employees/		-																					
+	Medium	https://www.geeksforgeeks.org/graph-coloring-applications/#:~:text=Graph%20coloring%20problem%20is%20to,are%20colored%20using%20same%20color.																							
+	Medium	https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/																							
+	Medium	https://leetcode.com/problems/as-far-from-land-as-possible/																							
+	Medium	https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/																							
+	Medium	https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/																							
+	Medium	https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/				-																			
+	Medium	https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1																							
+	Medium	https://leetcode.com/problems/evaluate-division/																							
+	Medium	https://leetcode.com/problems/snakes-and-ladders/																							
+	Medium	https://practice.geeksforgeeks.org/problems/topological-sort/1						-																	
+	Medium	https://leetcode.com/problems/cheapest-flights-within-k-stops/description/			-		-																		
+	Medium	https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/																							
+	Medium	https://www.geeksforgeeks.org/bipartite-graph/																							
+	Hard	https://leetcode.com/problems/longest-increasing-path-in-a-matrix/		-																					
+	Hard	https://leetcode.com/problems/making-a-large-island/																							
+	Hard	https://leetcode.com/problems/remove-boxes/					-	-																	
+	Hard	https://leetcode.com/problems/critical-connections-in-a-network/				-																			
+	Hard	https://practice.geeksforgeeks.org/problems/alien-dictionary/1				-		v																	
+	Hard	https://www.geeksforgeeks.org/water-jug-problem-using-bfs/																							
+	Hard	https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/				-	-	-																	
+	Hard	https://www.geeksforgeeks.org/total-number-spanning-trees-graph/																							
+	Hard	https://leetcode.com/problems/word-ladder/																							
+	Hard	https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/																							
+																									
+		Tries																							
+	Medium	https://leetcode.com/problems/design-add-and-search-words-data-structure/																							
+	Medium	https://www.geeksforgeeks.org/word-break-problem-trie-solution/		-																					
+	Medium	https://www.geeksforgeeks.org/trie-insert-and-search/		-																					
+	Medium	https://practice.geeksforgeeks.org/problems/k-anagrams-1/0		-																					
+	Hard	https://leetcode.com/problems/palindrome-pairs/		-																					
+	Hard	https://practice.geeksforgeeks.org/problems/phone-directory/0																							
+																									
+		Heaps / PQs																							
+																									
+	Easy/Medium	https://leetcode.com/problems/top-k-frequent-elements/																							
+	Easy/Medium	https://leetcode.com/problems/kth-largest-element-in-an-array/																							
+	Easy/Medium	https://leetcode.com/problems/ugly-number-ii/																							
+	Easy/Medium	https://leetcode.com/problems/furthest-building-you-can-reach/																							
+	Easy/Medium	https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/																							
+	Easy/Medium	https://leetcode.com/problems/reorganize-string/																							
+	Easy/Medium	https://leetcode.com/problems/find-the-most-competitive-subsequence/																							
+	Easy/Medium	https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1/																							
+	Easy/Medium	https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1/				-																			
+	Easy/Medium	https://leetcode.com/problems/k-closest-points-to-origin/																							
+	Hard	https://leetcode.com/problems/minimum-number-of-refueling-stops/																							
+	Hard	https://leetcode.com/problems/minimum-cost-to-hire-k-workers/		-																					
+	Hard	https://leetcode.com/problems/swim-in-rising-water/																							
+	Hard	https://leetcode.com/problems/sliding-window-maximum/																							
+																									
+		Dynamic Programming																							
+	Easy	https://leetcode.com/problems/climbing-stairs																							
+	Easy	https://leetcode.com/problems/maximum-product-subarray/			-																				
+	Easy	https://leetcode.com/problems/ones-and-zeroes/						-																	
+	Easy	https://leetcode.com/problems/counting-bits/					-																		
+	Medium	https://leetcode.com/problems/knight-dialer/																							
+	Medium	https://practice.geeksforgeeks.org/problems/cutted-segments1642/1																							
+	Medium	https://leetcode.com/problems/unique-paths/		-																					
+	Medium	https://leetcode.com/problems/minimum-path-sum/		-																					
+	Medium	https://leetcode.com/problems/coin-change/						-																	
+	Medium	https://leetcode.com/problems/decode-ways/		-			-																		
+	Medium	https://leetcode.com/problems/maximum-length-of-repeated-subarray/					-																		
+	Medium	https://leetcode.com/problems/longest-increasing-subsequence/																							
+	Medium	https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1					-																		
+	Medium	https://leetcode.com/problems/count-square-submatrices-with-all-ones/			-																				
+	Medium	https://leetcode.com/problems/maximal-square/																							
+	Medium	https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1																							
+	Medium	https://www.geeksforgeeks.org/weighted-job-scheduling/																							
+	Medium	https://leetcode.com/problems/delete-and-earn/																							
+	Medium	https://leetcode.com/problems/range-sum-query-2d-immutable/					-																		
+	Hard	https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/																							
+	Hard	https://leetcode.com/problems/frog-jump/																							
+	Hard	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/			-																				
+	Hard	https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/																							
+	Hard	https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/						-																	
+	Hard	https://leetcode.com/problems/trapping-rain-water/		-																					
+	Hard	https://leetcode.com/problems/minimum-cost-to-merge-stones/		-																					
+	Hard	https://leetcode.com/problems/count-different-palindromic-subsequences/		-																					
+	Hard	https://leetcode.com/problems/maximal-rectangle/		-																					
+	Hard	https://leetcode.com/problems/burst-balloons/																							
+	Hard	https://leetcode.com/problems/super-egg-drop/																							
+								-																	
+		Two Pointer Approach																							
+	Medium	https://leetcode.com/problems/sort-colors/					-																		
+	Medium	https://leetcode.com/problems/longest-repeating-character-replacement/																							
+	Medium	https://leetcode.com/problems/maximum-number-of-visible-points/																							
+																									
+																									
+		Greedy Algorithms																							
+	Easy/Medium	https://leetcode.com/problems/gas-station/																							
+	Easy/Medium	https://www.geeksforgeeks.org/minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin/																							
+	Easy/Medium	https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/						-																	
+	Easy/Medium	https://leetcode.com/problems/task-scheduler/																							
+	Easy/Medium	https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/					-																		
+	Easy/Medium	https://leetcode.com/problems/remove-k-digits/					-																		
+	Easy/Medium	https://www.spoj.com/problems/CHOCOLA/					-																		
+	Easy/Medium	https://leetcode.com/problems/non-overlapping-intervals/					-																		
+	Easy/Medium	https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/																							
+	Easy/Medium	https://www.geeksforgeeks.org/minimum-sum-two-numbers-formed-digits-array-2/																							
+								-																	
+																									
+		Backtracking																							
+	Medium	https://leetcode.com/problems/combination-sum-ii/																							
+	Medium	https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1																							
+	Medium	https://leetcode.com/problems/combinations/	-					-																	
+	Medium	https://leetcode.com/problems/subsets-ii/																							
+	Medium	https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1																							
+	Medium	https://leetcode.com/problems/beautiful-arrangement/																							
+	Medium	https://leetcode.com/problems/palindrome-partitioning/					-																		
+	Medium	https://leetcode.com/problems/permutations-ii/																							
+	Hard	https://leetcode.com/problems/word-search-ii/	-																						
+	Hard	https://leetcode.com/problems/sudoku-solver/			-																				
+	Hard	https://leetcode.com/problems/n-queens/																							
+	Hard	https://leetcode.com/problems/unique-paths-iii/					-																		
+	Hard	https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/																							
+	Hard	https://www.geeksforgeeks.org/partition-set-k-subsets-equal-sum/					-																		
+	Hard	https://www.geeksforgeeks.org/tug-of-war/					-																		
+	Hard	https://www.geeksforgeeks.org/find-paths-from-corner-cell-to-middle-cell-in-maze/		-																					
+	Hard	https://www.geeksforgeeks.org/solving-cryptarithmetic-puzzles-backtracking-8/																							
+	Hard	https://www.geeksforgeeks.org/print-palindromic-partitions-string/																							
+																									
+		Segment Tree																							
+	Medium/Hard	https://leetcode.com/problems/range-sum-query-immutable/	-																						
+	Medium/Hard	https://leetcode.com/problems/range-sum-query-mutable/				-																			
+	Medium/Hard	https://leetcode.com/problems/count-of-smaller-numbers-after-self/																							
+	Medium/Hard	https://leetcode.com/problems/count-of-range-sum/					-																		
+				-																					
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									

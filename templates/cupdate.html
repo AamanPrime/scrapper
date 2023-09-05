@@ -1,0 +1,13 @@
+{% import 'bootstrap/wtf.html' as wtf %}
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-12 mx-auto"/>
+            <h1>Update Cookies</h1>
+            {{ wtf.quick_form(form) }}
+            {% if updated == True %}
+            <h2>Updated</h2>
+            {% endif %}
+        </div>
+    </div>
+</div>

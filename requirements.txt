@@ -2,3 +2,5 @@ requests
 flask
 flask_bootstrap
 gunicorn
+wtforms
+flask_wtf

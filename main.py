@@ -2,8 +2,11 @@ from flask import Flask, render_template
 from flask_bootstrap import Bootstrap
 from datetime import datetime
 import requests
+from wtforms import SubmitField, TextAreaField
+from flask_wtf import FlaskForm
 
 app = Flask(__name__)
+app.config['SECRET_KEY'] = 'FDFGDgfhgfh'
 Bootstrap(app)
 date = datetime.today().strftime('%d %B %Y')
 website_list = [
@@ -24,6 +27,11 @@ content = {
     'udemy': {'title': 'Udemy Premium Cookies Updated Today 2023', 'website': 'Udemy', 'link': 'udemy-cookies'},
     'netflix': {'title': 'Netflix Premium Cookies Updated Today 2023', 'website': 'Netflix', 'link': 'netflix-cookies'}
 }
+
+
+class CUpd(FlaskForm):
+    text = TextAreaField('Enter Cookies')
+    submit = SubmitField('Upload')
 
 
 @app.route('/')
@@ -96,6 +104,17 @@ def update():
         return 'Error in 6'
 
     return 'Done'
+
+
+@app.route('/c/<f>', methods=['POST', 'GET'])
+def cupdate(f):
+    form = CUpd()
+    if form.validate_on_submit():
+        c = form.text.data
+        with open(f'static/{f}.txt', 'w') as file:
+            file.write(c)
+        return render_template('cupdate.html', form=form, updated = True)
+    return render_template('cupdate.html', form=form, updated = False)
 
 
 if __name__ == '__main__':
