@@ -125,22 +125,22 @@ def update():
         return 'Error in 4'
 
     try:
-        with open('static/grammarly.txt', 'w') as grammarly:
+        with open('static/grammarly1.txt', 'w') as grammarly:
             grammarly.write(requests.get('https://flask-production-9d9d.up.railway.app/grammarly').text)
     except:
         return 'Error in Grammarly'
     try:
-        with open('static/coursera.txt', 'w') as coursera:
+        with open('static/coursera1.txt', 'w') as coursera:
             coursera.write(requests.get('https://flask-production-9d9d.up.railway.app/coursera').text)
     except:
         return 'Error in Coursera'
     try:
-        with open('static/codecademy.txt', 'w') as codecademy:
+        with open('static/codecademy1.txt', 'w') as codecademy:
             codecademy.write(requests.get('https://flask-production-9d9d.up.railway.app/codecademy').text)
     except:
         return 'Error in Codecademy'
     try:
-        with open('static/educative.txt', 'w') as codecademy:
+        with open('static/educative1.txt', 'w') as codecademy:
             codecademy.write(requests.get('https://flask-production-9d9d.up.railway.app/educative').text)
     except:
         return 'Error in Educative'
