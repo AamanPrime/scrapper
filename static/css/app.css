@@ -1,9 +1,10 @@
 .home {
 
-    background-color: blanchedalmond;
+    background-color: #5A96E3;
     text-align: center;
     padding: 10%;
     border-radius: 50px;
+    margin: 2% 15% 2% 15%
     
 }
 
@@ -23,25 +24,28 @@
 
 .tele-info {
     color: white;
-    font-size: 15px;
+    font-size: 22px;
     margin: 1% 0 1% 0;
 
 }
 
 .tele-link {
-    background-color: chartreuse;
+    background-color: black;
 }
 
 @media screen and (max-width: 700px) {
 
     .tele-info {
-        font-size: 15px;
+        font-size: 20px;
     }
     .telegram {
         margin: 1% 5% 1% 5%;
     }
     .home {
         padding-top: 15%;
+    }
+    .brand {
+    font-size : 60px
     }
 }
 
@@ -57,7 +61,26 @@
     margin-right: 0;
 }
 
-textarea {
+.content {
+    background-color: #DBDFEA;
+    border-radius: 8%;
+    display : inline-block
+}
 
+.p-3 {
+
+    margin: 5% 3% 5% 3%
 
 }
+
+.step-img {
+    width: 70%;
+    margin: 3%;
+
+}
+
+.cookies {
+
+    margin: 8% 0% 5% 0%
+}
+

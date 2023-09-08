@@ -7,6 +7,7 @@
 
     <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='img/favicon.ico') }}">
 
     <link rel="stylesheet" href="/css/app.css">
 </head>
@@ -27,20 +28,27 @@
             <a class="nav-link active" href="/udemy">Udemy</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="/">Coursera</a>
+            <a class="nav-link active" href="/coursera">Coursera</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="/">Netflix</a>
+            <a class="nav-link active" href="/netflix">Netflix</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="/">Crounchy Roll</a>
+            <a class="nav-link active" href="/codecademy">Codecademy</a>
           </li>
         </ul>
       </div>
     </div>
   </nav>
 
-
+<section>
+      <div class="telegram bg-primary">
+        <div class="text-center">
+          <p class="tele-info">Join Our Telegram Channel     <a class="tele-link" href="https://t.me/getcookie">Join Now</a>
+          </p>
+        </div>
+      </div>
+</section>
     <section>
       <div class="home">
         <div>
@@ -52,19 +60,12 @@
       </div>
 
     </section>
-    <section>
-      <div class="telegram bg-primary row ">
-        <div class="text-center">
-          <p class="tele-info">If cookies are not working, then join telegram <a class="tele-link" href="https://t.me/getcookie">Join Now</a>
-          </p>
-        </div>
-      </div>
 
     <script async="async" data-cfasync="false" src="//pl20434654.highcpmrevenuegate.com/04de70d828de32c943c208e94da561b7/invoke.js"></script>
 <div id="container-04de70d828de32c943c208e94da561b7"></div>
-    </section>
+    <section>
     <div class="row p-3">
-      <div class="col-sm-12 col-md-9">
+      <div class="col-sm-12 col-md-9 content">
         {% for item in list %}
           <div class="row p-3 text-center">
             <div class="col-sm-12 col-md-3">
@@ -84,9 +85,9 @@
           {% endfor %}
 
       </div>
-      <div class="col-sm-12 col-md-3">
+      <div class="col-sm-12 col-md-3 sticky-top">
         <h3>Advertisement</h3>
-        <div class="card" style="height: 300px;">
+        <div class="card sticky-top" style="height: 300px;">
 
           <div class="card-body">
               <script type="text/javascript">
@@ -101,7 +102,7 @@
 </script>
           </div>
         </div>
-        <div class="card" style="height: 300px;">
+        <div class="card sticky-top" style="height: 300px;">
 
           <div class="card-body">
           <script type="text/javascript">
@@ -123,6 +124,7 @@
 
       </div>
     </div>
+  </section>
 
     <script src="{{ url_for('static', filename='js/jquery.js') }}"></script>
     <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
