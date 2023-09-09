@@ -50,7 +50,7 @@ website_list = [
 ]
 
 content = {
-    'netflix': {'title': 'Netflix Premium Cookies Updated Today 2023', 'website': 'Netflix', 'link': 'netflix/cookies', 'two' : False, 'three' : False},
+    'netflix': {'title': 'Netflix Premium Cookies Updated Today 2023', 'website': 'Netflix', 'link': 'netflix/cookies', 'two' : True, 'three' : True},
     'grammarly': {'title': website_list[1]['name'], 'website': 'Grammarly', 'link': 'grammarly/cookies', 'two' : False, 'three' : False},
     'coursera': {'title': website_list[2]['name'], 'website': 'Coursera', 'link': 'coursera/cookies', 'two' : False, 'three' : False},
     'udemy': {'title': 'Udemy Premium Cookies Updated Today 2023', 'website': 'Udemy', 'link': 'udemy/cookies', 'two' : True, 'three' : False},

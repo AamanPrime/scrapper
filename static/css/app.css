@@ -84,3 +84,30 @@
     margin: 8% 0% 5% 0%
 }
 
+#timer {
+    background-color: red;
+    width: 60px;
+    border-radius: 100px;
+    margin: 2% 50% 0% 50%;
+    display: none;
+    font-size: 50px;
+
+}
+#ctimer {
+    background-color: red;
+    width: 60px;
+    border-radius: 100px;
+    margin: 2% 50% 0% 50%;
+
+    font-size: 50px;
+
+}
+
+
+#cookies-link {
+    display:none
+}
+
+#cookies {
+    display: none;
+}
